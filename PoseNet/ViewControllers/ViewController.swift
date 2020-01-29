@@ -33,7 +33,7 @@ class ViewController: UIViewController {
   private var inferencedData: InferencedData?
 
   // Minimum score to render the result.
-  private let minimumScore: Float = 0.5
+  private let minimumScore: Float = 0.52
 
   // Relative location of `overlayView` to `previewView`.
   private var overlayViewFrame: CGRect?
@@ -279,9 +279,9 @@ extension ViewController: UITableViewDelegate, UITableViewDataSource {
 // MARK: - Private enums
 /// UI coinstraint values
 private enum Traits {
-  static let normalCellHeight: CGFloat = 35.0
-  static let separatorCellHeight: CGFloat = 25.0
-  static let bottomSpacing: CGFloat = 30.0
+    static let normalCellHeight: CGFloat = 35.0
+    static let separatorCellHeight: CGFloat = 25.0
+    static let bottomSpacing: CGFloat = 30.0
 }
 
 private struct InferencedData {

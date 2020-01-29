@@ -1,0 +1,31 @@
+PODS:
+  - AppCenter (2.5.3):
+    - AppCenter/Analytics (= 2.5.3)
+    - AppCenter/Crashes (= 2.5.3)
+  - AppCenter/Analytics (2.5.3):
+    - AppCenter/Core
+  - AppCenter/Core (2.5.3)
+  - AppCenter/Crashes (2.5.3):
+    - AppCenter/Core
+  - TensorFlowLiteC (0.0.1-nightly.20191222)
+  - TensorFlowLiteSwift (0.0.1-nightly):
+    - TensorFlowLiteC (~> 0.0.1-nightly)
+
+DEPENDENCIES:
+  - AppCenter
+  - TensorFlowLiteSwift (= 0.0.1-nightly)
+
+SPEC REPOS:
+  trunk:
+    - AppCenter
+    - TensorFlowLiteC
+    - TensorFlowLiteSwift
+
+SPEC CHECKSUMS:
+  AppCenter: 765ff38c4d360fc5ec61b61a8be24d74cd6d4d83
+  TensorFlowLiteC: 8e91af10cabd71fba84898b423d46a0706a08e4f
+  TensorFlowLiteSwift: 1db618cb4fd98077b679ff75911771e25a6e0d14
+
+PODFILE CHECKSUM: 56bc9179044c91f9a649f875e5c816b6818d7ffa
+
+COCOAPODS: 1.8.4

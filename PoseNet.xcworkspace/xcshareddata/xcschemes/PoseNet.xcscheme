@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "84B67CEA2326338300A11A08"
-               BuildableName = "PoseNet.app"
+               BuildableName = "AI Fitness.app"
                BlueprintName = "PoseNet"
                ReferencedContainer = "container:PoseNet.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "84B67CEA2326338300A11A08"
-            BuildableName = "PoseNet.app"
+            BuildableName = "AI Fitness.app"
             BlueprintName = "PoseNet"
             ReferencedContainer = "container:PoseNet.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "84B67CEA2326338300A11A08"
-            BuildableName = "PoseNet.app"
+            BuildableName = "AI Fitness.app"
             BlueprintName = "PoseNet"
             ReferencedContainer = "container:PoseNet.xcodeproj">
          </BuildableReference>
